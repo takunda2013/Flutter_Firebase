@@ -1,0 +1,11 @@
+wooooh haa its been a journey indeed
+
+about firebase_cli l logged in with my account but unfortunately google cloud has a lot of protocols
+
+letter used this tutorial to create a project safely
+https://console.firebase.google.com/project/helpers-467f1/overview
+
+create the project and follow steps // download the googleservices.json file and put it in android app directory
+
+so far so good errors are so easy to deal with
+8.20.56

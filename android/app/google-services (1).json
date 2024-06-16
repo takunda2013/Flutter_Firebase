@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385683069923",
+    "project_id": "helpers-467f1",
+    "storage_bucket": "helpers-467f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385683069923:android:18a291d612e9bc26f8ded6",
+        "android_client_info": {
+          "package_name": "com.example.helloflutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmeOr_T4WTGhFzOYNBw5n9kMmZQVmT68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
